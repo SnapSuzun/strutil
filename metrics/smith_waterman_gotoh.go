@@ -3,7 +3,7 @@ package metrics
 import (
 	"strings"
 
-	"github.com/adrg/strutil/internal/mathutil"
+	"github.com/snapsuzun/strutil/internal/mathutil"
 )
 
 // SmithWatermanGotoh represents the Smith-Waterman-Gotoh metric for measuring
