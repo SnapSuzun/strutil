@@ -17,8 +17,8 @@ Included string metrics:
 package strutil
 
 import (
-	"github.com/adrg/strutil/internal/ngram"
-	"github.com/adrg/strutil/internal/stringutil"
+	"github.com/snapsuzun/strutil/internal/ngram"
+	"github.com/snapsuzun/strutil/internal/stringutil"
 )
 
 // StringMetric represents a metric for measuring the similarity between
