@@ -3,7 +3,7 @@ package metrics
 import (
 	"strings"
 
-	"github.com/adrg/strutil/internal/ngram"
+	"github.com/snapsuzun/strutil/internal/ngram"
 )
 
 // Jaccard represents the Jaccard index for measuring the similarity
