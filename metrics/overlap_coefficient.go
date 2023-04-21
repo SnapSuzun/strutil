@@ -3,8 +3,8 @@ package metrics
 import (
 	"strings"
 
-	"github.com/adrg/strutil/internal/mathutil"
-	"github.com/adrg/strutil/internal/ngram"
+	"github.com/snapsuzun/strutil/internal/mathutil"
+	"github.com/snapsuzun/strutil/internal/ngram"
 )
 
 // OverlapCoefficient represents the overlap coefficient for measuring the
