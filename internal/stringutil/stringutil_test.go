@@ -3,7 +3,7 @@ package stringutil_test
 import (
 	"testing"
 
-	"github.com/adrg/strutil/internal/stringutil"
+	"github.com/snapsuzun/strutil/internal/stringutil"
 	"github.com/stretchr/testify/require"
 )
 

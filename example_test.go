@@ -3,8 +3,8 @@ package strutil_test
 import (
 	"fmt"
 
-	"github.com/adrg/strutil"
-	"github.com/adrg/strutil/metrics"
+	"github.com/snapsuzun/strutil"
+	"github.com/snapsuzun/strutil/metrics"
 )
 
 func ExampleSimilarity() {
